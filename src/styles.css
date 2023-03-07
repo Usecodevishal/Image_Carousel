@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.slide {
+  widhth: 10vh;
+  height: 70vh;
+}
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
